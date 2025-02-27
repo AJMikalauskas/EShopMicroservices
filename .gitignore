@@ -400,3 +400,4 @@ FodyWeavers.xsd
 *.sln.iml
 src/Services/Catalog/Catalog.API/appsettings.json
 src/Services/Catalog/Catalog.API/appsettings.Development.json
+src/Services/Catalog/Catalog.API/Properties/launchSettings.json
